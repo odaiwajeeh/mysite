@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "e83507ecc244db17b039f86cb5d09f0f",
+const RESOURCES = {"main.dart.js": "6c43dd64b3eefa29493db6fd337d8a37",
 "index.html": "95da7cbfcb5f2914e4f8ce77b0e6a434",
 "/": "95da7cbfcb5f2914e4f8ce77b0e6a434",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -32,9 +32,9 @@ const RESOURCES = {"main.dart.js": "e83507ecc244db17b039f86cb5d09f0f",
 "assets/assets/lottie/lottie1.json": "a286ee6c909deb23bf19497f54d0581a",
 "assets/assets/images/img1.png": "2b21759a3527bbe46cfffeb41c8aa7f8",
 "assets/assets/images/img2.jpg": "1c120831414ea13108472e6be47a2e59",
-"assets/fonts/MaterialIcons-Regular.otf": "73788fe8179c7b3c6cb3cc938c89116e",
+"assets/fonts/MaterialIcons-Regular.otf": "667579466672bf98a61c888c32543a93",
 "assets/AssetManifest.bin": "ca87721997e8d1e3e777af57ab867ccc",
-"flutter_bootstrap.js": "f32a05e4c41fd552c839ac9edfc2a03a",
+"flutter_bootstrap.js": "518b9d64f92b4ccc0f50475434b63819",
 "flutter.js": "f393d3c16b631f36852323de8e583132"};
 // The application shell files that are downloaded before a service worker can
 // start.
